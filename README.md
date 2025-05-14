@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/entrepeneur4lyf-mcp-rs-template-badge.png)](https://mseep.ai/app/entrepeneur4lyf-mcp-rs-template)
+
 MCP Rust CLI server template
 =============================
 
